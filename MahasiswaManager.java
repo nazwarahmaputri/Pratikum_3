@@ -17,7 +17,7 @@ public class MahasiswaManager {
     Connection conn = null;
     Statement st = null;
     String driver = "com.mysql.jdbc.Driver";
-    String url = "dbc:mysql://localhost:3306/db_SI_43";
+    String url = "dbc:mysql://localhost:3306/db_SI_25";
     
     public MahasiswaManager() {
         try {
